@@ -1,0 +1,24 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.7)
+    kensa (1.4.1)
+      launchy (>= 0.3.2)
+      mechanize (~> 1.0.0)
+      rest-client (>= 1.4.0, < 1.7.0)
+      term-ansicolor (~> 1.0)
+    launchy (2.0.5)
+      addressable (~> 2.2.6)
+    mechanize (1.0.0)
+      nokogiri (>= 1.2.1)
+    mime-types (1.17.2)
+    nokogiri (1.5.2)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    term-ansicolor (1.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kensa
